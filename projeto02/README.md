@@ -21,15 +21,15 @@ Praticar a construção de dashboards utilizando recursos gráficos e analítico
 ## 🖼️ Visual da Dashboard
 
 <p align="center">
-  <img src="./imagens/dash4-1.jpg" alt="Página índice" width="48%"/>
-  <img src="./imagens/dash4-2.jpg" alt="Página Narrativa Inteligente" width="48%"/>
+  <img src="./Imagens/dash4-1.jpg" alt="Página índice" width="48%"/>
+  <img src="./Imagens/dash4-2.jpg" alt="Página Narrativa Inteligente" width="48%"/>
 </p>
 <p align="center">
-  <img src="./imagens/dash4-3.jpg" alt="Página Principais Influenciadores de Vendas" width="48%"/>
-  <img src="./imagens/dash4-4.jpg" alt="Página Faixas de Vendas por Categoria e Pontos de Venda" width="48%"/>
+  <img src="./Imagens/dash4-3.jpg" alt="Página Principais Influenciadores de Vendas" width="48%"/>
+  <img src="./Imagens/dash4-4.jpg" alt="Página Faixas de Vendas por Categoria e Pontos de Venda" width="48%"/>
 </p>
 <p align="center">
-  <img src="./imagens/dash4-5.jpg" alt="Página Performance dos Vendedores por Região" width="48%"/>
+  <img src="./Imagens/dash4-5.jpg" alt="Página Performance dos Vendedores por Região" width="48%"/>
 </p>
 
 ## 📁 Arquivos
