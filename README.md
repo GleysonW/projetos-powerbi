@@ -18,10 +18,10 @@ Cada projeto é uma aplicação prática de conceitos de BI, modelagem de dados,
 
 | Projeto      | Descrição                                     | Acesso Online            | Imagem                     |
 |--------------|-----------------------------------------------|---------------------------|-----------------------------|
-| `lab01`      | Dashboard Analítico de Vendas Globais.  | [🔗 Ver dashboard]() | ![](./lab01/imagens/dash1.jpg) |
-| `lab02`      | Dashboard de Vendas, Custo, Margem de Lucro e KPI.   | [🔗 Ver dashboard]() | ![](./lab02/imagens/dash2.jpg) |
-| `projeto01`  | Dashboard Analítico Campanhas de Makerting.    | [🔗 Ver dashboard]() | ![](./projeto01/imagens/dash3.jpg) |
-| `projeto02`  | Dashboard Comercial - Performance de Vendas.     | [🔗 Ver dashboard]() | ![](./projeto02/dash4.jpg) |
+| `lab01`      | Dashboard Analítico de Vendas Globais.  | [🔗 Ver dashboard]() | ![](./lab01/imagens/dash1.jpg) | [📂 Acessar](./lab01) |
+| `lab02`      | Dashboard de Vendas, Custo, Margem de Lucro e KPI.   | [🔗 Ver dashboard]() | ![](./lab02/imagens/dash2.jpg) | [📂 Acessar](./lab02) |
+| `projeto01`  | Dashboard Analítico Campanhas de Makerting. | [🔗 Ver dashboard]() | ![](./projeto01/imagens/dash3.jpg) | [📂 Acessar](./projeto01) |
+| `projeto02`  | Dashboard Comercial - Performance de Vendas. | [🔗 Ver dashboard]() | ![](./projeto02/imagens/dash4.jpg) | [📂 Acessar](./projeto02) |
 
 
 ---

@@ -20,19 +20,20 @@ Praticar a construção de dashboards utilizando recursos intermediários do Pow
 
 ## 🖼️ Visual da Dashboard
 
-<img src="./dash3-1.jpg" alt="Dashboard Parte 1" width="800"/>
-<br/>
-<img src="./dash3-2.jpg" alt="Dashboard Parte 2" width="800"/>
-<br/>
-<img src="./dash3-3.jpg" alt="Dashboard Parte 3" width="800"/>
-<br/>
-<img src="./dash3-4.jpg" alt="Dashboard Parte 4" width="800"/>
+<p align="center">
+  <img src="./imagens/dash3-1.jpg" alt="Página Visão Cliente" width="48%"/>
+  <img src="./imagens/dash3-2.jpg" alt="Página Visão Comportamento" width="48%"/>
+</p>
+<p align="center">
+  <img src="./imagens/dash3-3.jpg" alt="Página Visão Campanhas" width="48%"/>
+  <img src="./imagens/dash3-4.jpg" alt="Página Visão Pontos de Venda" width="48%"/>
+</p>
 
 ## 📁 Arquivos
 
 - `dados_marketing.csv`: Base de dados utilizada para construção da análise
 - `dash3-1.jpg` a `dash3-4.jpg`: Imagens da dashboard final
-- `lab03.pbix`: Arquivo Power BI (caso deseje disponibilizar)
+- `lab03.pbix`: Arquivo Power BI
 
 ---
 
