@@ -22,7 +22,8 @@ Cada projeto é uma aplicação prática de conceitos de BI, modelagem de dados,
 | `lab02`      | Dashboard de Vendas, Custo, Margem de Lucro e KPI.    | ![](./lab02/imagens/dash2.jpg)                 | [📂 Acessar](./lab02)    |
 | `projeto01`  | Dashboard Analítico Campanhas de Marketing.           | ![](./projeto01/imagens/dash3.jpg)             | [📂 Acessar](./projeto01)|
 | `projeto02`  | Dashboard Comercial - Performance de Vendas.          | ![](./projeto02/Imagens/dash4.jpg)             | [📂 Acessar](./projeto02)|
-
+| `projeto03`  | Dashboard Análise de Dados de RH.          | ![](./projeto03/imagens/dash5.jpg)             | [📂 Acessar](./projeto03)|
+| `projeto04`  | Correção de Dashboard Logística.          | ![](./projeto04/imagens/dash6.jpg)             | [📂 Acessar](./projeto04)|
 
 ---
 

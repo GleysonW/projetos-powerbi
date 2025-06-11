@@ -36,7 +36,7 @@ Praticar a construção de dashboards utilizando recursos gráficos e analítico
 
 - `Dados_Comerciais.xlsx`: Base de dados utilizada para construção das análises
 - `dash4-1.jpg` a `dash4-5.jpg`: Imagens das páginas da dashboard final
-- `dashboard.pbix`: Arquivo Power BI com a construção completa (caso deseje disponibilizar)
+- `projeto02.pbix`: Arquivo Power BI com a construção completa
 
 ---
 

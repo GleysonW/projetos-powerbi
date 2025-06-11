@@ -33,7 +33,7 @@ Praticar a construção de dashboards utilizando recursos intermediários do Pow
 
 - `dados_marketing.csv`: Base de dados utilizada para construção da análise
 - `dash3-1.jpg` a `dash3-4.jpg`: Imagens da dashboard final
-- `lab03.pbix`: Arquivo Power BI
+- `projeto01.pbix`: Arquivo Power BI
 
 ---
 
