@@ -30,7 +30,7 @@ Cada projeto é uma aplicação prática de conceitos de BI, modelagem de dados,
 
 ---
 
-## 🗂 Estrutura do repositório
+## 🗂 Estrutura do repositório 
 
 Cada pasta contém:
 

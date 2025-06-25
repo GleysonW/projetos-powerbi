@@ -1,6 +1,6 @@
 ## 📊 Projeto 7 – Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
 
-## 🧾 Descrição
+## 🧾 Descrição 
 
 Este projeto tem como foco analisar o comportamento do mercado de ações por meio de visualizações interativas e narrativas automatizadas, incluindo:
 
